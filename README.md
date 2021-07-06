@@ -1,4 +1,4 @@
-This Flutter App is an Simple Example for  State Managemet  in flutter using Provider.
+This Flutter App is a Simple Example for  State Managemet  in flutter using Provider.
 
 Stay tuned for the updated Versions and remember to check out other Apps..
 
